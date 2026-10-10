@@ -7,5 +7,6 @@ https://geonet-myanmar.github.io/launglon-landslides-2026/, hosted separately so
 | folder | survey | resolution |
 |---|---|---|
 | `tizit/` | Ti Zit, Launglon Township, flown 9 Oct 2026 (two deliveries joined) | 10.0 cm, tiles z13-z20 |
+| `tizitws/` | Ti Zit watershed, Launglon Township, flown 10 Oct 2026 (one mosaic) | 8.5 cm, tiles z13-z20 |
 
-Built by `scripts/10_tiles.py tizit` in the `launglon-landslides-2026` repo; do not edit by hand.
+Built by `scripts/10_tiles.py tizit|tizitws` in the `launglon-landslides-2026` repo; do not edit by hand.
